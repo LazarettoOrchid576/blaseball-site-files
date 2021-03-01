@@ -710,5 +710,517 @@
         "background": "#96afd4",
         "title": "Perk",
         "description": "This player has been rewarded Percolated energy."
+    },
+    {
+        "id": "OVERPERFORMING",
+        "color": "#32b528",
+        "textColor": "#32b528",
+        "background": "#000000",
+        "title": "Overperforming",
+        "description": "This player will play 20% better than usual."
+    },
+    {
+        "id": "SHAME_GIVER",
+        "color": "#ff005d",
+        "textColor": "#ff005d",
+        "background": "#3d1539",
+        "title": "Shame Donor",
+        "description": "When this team shames their opponent, that opponent will begin their next game with Unruns."
+    },
+    {
+        "id": "UNDERPERFORMING",
+        "color": "#db3616",
+        "textColor": "#db3616",
+        "background": "#000000",
+        "title": "Underperforming",
+        "description": "This player will play 20% worse than usual."
+    },
+    {
+        "id": "EGO1",
+        "color": "#d1c252",
+        "textColor": "#d1c252",
+        "background": "#383000",
+        "title": "Ego+",
+        "description": "This player has a boosted Ego."
+    },
+    {
+        "id": "EGO2",
+        "color": "#d6c965",
+        "textColor": "#d6c965",
+        "background": "#5e5100",
+        "title": "Ego++",
+        "description": "This player has a boosted boosted Ego."
+    },
+    {
+        "id": "EGO3",
+        "color": "#e3d77f",
+        "textColor": "#e3d77f",
+        "background": "#857300",
+        "title": "Ego+++",
+        "description": "This player has a boosted boosted boosted Ego."
+    },
+    {
+        "id": "EGO4",
+        "color": "#f5eba2",
+        "textColor": "#f5eba2",
+        "background": "#a89200",
+        "title": "Ego++++",
+        "description": "This player has a boosted boosted boosted boosted Ego."
+    },
+    {
+        "id": "LEGENDARY",
+        "color": "#fff8c7",
+        "textColor": "#fff8c7",
+        "background": "#bfa600",
+        "title": "Legendary",
+        "description": "This player is Legendary."
+    },
+    {
+        "id": "ELSEWHERE",
+        "color": "#bdb3c3",
+        "textColor": "#bdb3c3",
+        "background": "#ffffff",
+        "title": "Elsewhere",
+        "description": "This player is Elsewhere. They'll find their own way back."
+    },
+    {
+        "id": "BOTTOM_DWELLER",
+        "color": "#ffd7b0",
+        "textColor": "#ffd7b0",
+        "background": "#705336",
+        "title": "Bottom Dweller",
+        "description": "If this team finishes last in their division, they'll be boosted up to 5%."
+    },
+    {
+        "id": "CARCINIZATION",
+        "color": "#ff4258",
+        "textColor": "#ff4258",
+        "background": "#38040a",
+        "title": "Carcinization",
+        "description": "When the Crabs activate the Black Hole, they will steal the other team's best hitter for the remainder of the game."
+    },
+    {
+        "id": "MAINTENANCE_MODE",
+        "color": "#ffed63",
+        "textColor": "#ffed63",
+        "background": "#c25429",
+        "title": "Maintenance Mode",
+        "description": "Whenever a player on this team is Impaired, they'll receive the Fourth Out for the remainder of the game."
+    },
+    {
+        "id": "AMBUSH",
+        "color": "#ff2160",
+        "textColor": "#ff2160",
+        "background": "#0c000f",
+        "title": "Ambush",
+        "description": "When a player is incinerated in a game this team is playing, a Hall of Flame player will join their Shadows."
+    },
+    {
+        "id": "UNDERSEA",
+        "color": "#c2e1ff",
+        "textColor": "#c2e1ff",
+        "background": "#34516e",
+        "title": "Undersea",
+        "description": "If this team ever has negative Runs, they'll Overperform for the rest of the game."
+    },
+    {
+        "id": "PENANCE",
+        "color": "#ca0000",
+        "textColor": "#ca0000",
+        "background": "#4a0000",
+        "title": "Penance",
+        "description": "This team will start each game by accepting 3 Unruns of penance."
+    },
+    {
+        "id": "EXTRA_OUT",
+        "color": "#5ba3eb",
+        "textColor": "#5ba3eb",
+        "background": "#00254a",
+        "title": "Fourth Out",
+        "description": "This team plays with a Fourth Out."
+    },
+    {
+        "id": "STUCK",
+        "color": "#b5bceb",
+        "textColor": "#b5bceb",
+        "background": "#5f1e61",
+        "title": "Stuck",
+        "description": "This player cannot swing."
+    },
+    {
+        "id": "SWIM_BLADDER",
+        "color": "#fffd6e",
+        "textColor": "#fffd6e",
+        "background": "#0a6154",
+        "title": "Flippers",
+        "description": "When immateria floods, this Runner will score instead of being cleared from the Bases."
+    },
+    {
+        "id": "DEBT_THREE",
+        "color": "#ff1f3c",
+        "textColor": "#ff1f3c",
+        "background": "#3b3217",
+        "title": "Debt",
+        "description": "This player must fulfill a Debt."
+    },
+    {
+        "id": "ECHO",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Echo",
+        "description": ""
+    },
+    {
+        "id": "STATIC",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Static",
+        "description": ""
+    },
+    {
+        "id": "EARLBIRDS",
+        "color": "#ffc2f9",
+        "textColor": "#ffc2f9",
+        "background": "#0a8ef5",
+        "title": "Earlbirds",
+        "description": "This team will Overperform in the Earlseason."
+    },
+    {
+        "id": "LATE_TO_PARTY",
+        "color": "#addbff",
+        "textColor": "#addbff",
+        "background": "#700065",
+        "title": "Late to the Party",
+        "description": "This team will Overperform in the Lateseason."
+    },
+    {
+        "id": "OVERUNDER",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Over Under",
+        "description": "Whenever this pitcher's team has Over 5 Runs, they'll Underperform."
+    },
+    {
+        "id": "UNDEROVER",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Under Over",
+        "description": "Whenever this player's team has Under 5 Runs, they'll Overperform."
+    },
+    {
+        "id": "WANDERER",
+        "color": "#fffeeb",
+        "textColor": "#fffeeb",
+        "background": "#3f1e57",
+        "title": "Roamin'",
+        "description": "This player has a chance of Roamin' to a new team at the end of each season."
+    },
+    {
+        "id": "SUPERWANDERER",
+        "color": "#fcff54",
+        "textColor": "#fcff54",
+        "background": "#6b3c8c",
+        "title": "Super Roamin'",
+        "description": "This player has a high chance of Roamin' to a new team at the end of each season."
+    },
+    {
+        "id": "NEWADVENTURE",
+        "color": "#caffc7",
+        "textColor": "#caffc7",
+        "background": "#007da3",
+        "title": "On an Odyssey",
+        "description": "This player is boosted 5% every team they join a team."
+    },
+    {
+        "id": "SINKING_SHIP",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Sinking Ship",
+        "description": "This team plays 1% worse for every player above 14 players on their roster, and 1% better for every player below 14 on their roster."
+    },
+    {
+        "id": "PARASITE",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Parasite",
+        "description": "When this pitcher strikes out a batter in Blooddrain, they'll drain some blood from them."
+    },
+    {
+        "id": "DEFECTOR",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Defector",
+        "description": ""
+    },
+    {
+        "id": "HOMEBODY",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Homebody",
+        "description": "This player will Overperform when playing in their home Ballpark and Underperform otherwise."
+    },
+    {
+        "id": "KILLER_PIES",
+        "color": "#ace8de",
+        "textColor": "#ace8de",
+        "background": "#3b524e",
+        "title": "Flying Pies",
+        "description": "Whenever the Pies have lost 3 in a Row, their pitchers will start throwing Pies."
+    },
+    {
+        "id": "FRESH",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Fresh",
+        "description": "When a player joins this Team, they'll be boosted by 2%."
+    },
+    {
+        "id": "PARTING_GIFT",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Parting Gift",
+        "description": "When a player leaves this Team, they'll be boosted by 2%"
+    },
+    {
+        "id": "BLOCKED_BOOST",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Blocked Boost",
+        "description": "If this player is protected from a Steal or Swap Will, they'll be boosted by 2%."
+    },
+    {
+        "id": "HALL_ENTER_BOOST",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Hall Enter Boost",
+        "description": "When this player enters the Hall of Flame, they'll be boosted 5%."
+    },
+    {
+        "id": "HALL_EXIT_BOOST",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Hall Exit Boost",
+        "description": "When this player exits the Hall of Flame, they'll be boosted 5%."
+    },
+    {
+        "id": "FLOOD_PUMPS",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Flood Pumps",
+        "description": ""
+    },
+    {
+        "id": "POLAR_VORTEX",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Polar Vortex",
+        "description": ""
+    },
+    {
+        "id": "SALMON_CANNONS",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Salmon Cannons",
+        "description": ""
+    },
+    {
+        "id": "EVENT_HORIZON",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Event Horizon",
+        "description": ""
+    },
+    {
+        "id": "SOUNDSYSTEM",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "LCD Soundsystem",
+        "description": ""
+    },
+    {
+        "id": "ECHO_CHAMBER",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Echo Chamber",
+        "description": ""
+    },
+    {
+        "id": "FIRE_INSURANCE",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Heat Magnet",
+        "description": ""
+    },
+    {
+        "id": "PEANUT_MISTER",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Peanut Mister",
+        "description": ""
+    },
+    {
+        "id": "BLOOD_LUSTER",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Blood Luster",
+        "description": ""
+    },
+    {
+        "id": "BIRDHOUSES",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Birdhouses",
+        "description": ""
+    },
+    {
+        "id": "SWEETENER",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Sweetener",
+        "description": ""
+    },
+    {
+        "id": "SECRET_BASE",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Secret Base",
+        "description": ""
+    },
+    {
+        "id": "HOOPS",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Hoops",
+        "description": ""
+    },
+    {
+        "id": "GRIND_RAIL",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Grind Rail",
+        "description": ""
+    },
+    {
+        "id": "CASINO_ZONE",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Casino Zone",
+        "description": ""
+    },
+    {
+        "id": "CATAPULTS",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Catapults",
+        "description": ""
+    },
+    {
+        "id": "BIG_BUCKET",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Big Buckets",
+        "description": ""
+    },
+    {
+        "id": "SMALL_BUCKET",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Small Bucket",
+        "description": ""
+    },
+    {
+        "id": "BUMPERS",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Bumpers",
+        "description": ""
+    },
+    {
+        "id": "BULLPEN",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Bull Pen",
+        "description": ""
+    },
+    {
+        "id": "SEARCHLIGHTS",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Searchlights",
+        "description": ""
+    },
+    {
+        "id": "SECRET_TUNNELS",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Secret Tunnels",
+        "description": ""
+    },
+    {
+        "id": "SOLAR_PANELS",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Solar Panels",
+        "description": ""
+    },
+    {
+        "id": "TEMP_STOLEN",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Temp Stolen",
+        "description": "This player has been temporarily stolen."
+    },
+    {
+        "id": "REDACTED",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Redacted",
+        "description": "This player is Redacted."
+    },
+    {
+        "id": "FUGITIVE",
+        "color": "#ffffff",
+        "textColor": "#ffffff",
+        "background": "#000000",
+        "title": "Fugitive",
+        "description": ""
     }
 ]
