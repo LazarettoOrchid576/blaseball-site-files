@@ -116,16 +116,16 @@
 - The time of the Seasonal Reading.
 
 ## `Ego+`
-- `| |||||||||||||| ||||||| |||||||| ||||||| |||||||| ||||||`
+- `A |||||||||||||| concept |||||||| ||||||| |||||||| ||||||`
 
 ## `Ego++`
-- `| |||||||||||||| ||||||| |||||||| ||||||| |||||||| ||||||`
+- `A |||||||||||||| ||||||| |||||||| ||||||| |||||||| ||||||`
 
 ## `Ego+++`
-- `| |||||||||||||| ||||||| |||||||| ||||||| |||||||| |||| |||| ||||||`
+- `A |||||||||||||| ||||||| |||||||| ||||||| |||||||| |||| |||| ||||||`
 
 ## `Ego++++`
-- `| |||||||||||||| ||||||| |||||||| ||||||| |||||||| ||||| ||| |||| ||||||| |||||||| |||||`
+- `A |||||||||||||| ||||||| |||||||| ||||||| |||||||| ||||| ||| |||| ||||||| |||||||| |||||`
 
 ## Election
 - A formal group decision-making process by which Fans spend Votes in exchange for divine favor.
@@ -355,7 +355,7 @@
 - The period of time between Gods' Day and the beginning of the Regular Season.
 
 ## Receiver
-- A Player that harmonizes with` ||||||| ||||| `or Player.
+- A Player that harmonizes with` another ||||| `or Player.
 
 ## Red Hot!
 - A Modification that greatly boosts a batter's hitting and which disappears if the batter gets out.
@@ -454,7 +454,7 @@
 ## Star
 - A volumetric unit of congealed care.
 - A measurement of potentiality.
-- An object forged by` ||| ||||| |||||||||| ||| |||||||||| |||||| `consisting of a luminous spheroid of Plasma held together by` ||||`.
+- An object forged by` the being Namerifeht ||| |||||||||| |||||| `consisting of a luminous spheroid of Plasma held together by` ||||`.
 
 ## Steal
 - An exchange of Players in which only one Player is selected for the transaction.
