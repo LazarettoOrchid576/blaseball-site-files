@@ -116,16 +116,16 @@
 - The time of the Seasonal Reading.
 
 ## `Ego+`
-- `A |||||||||||||| concept |||||||| ||||||| |||||||| ||||||`
+- `A |||||||||||||| concept |||||||| ||||||| |||||||| |||||.`
 
 ## `Ego++`
-- `A |||||||||||||| ||||||| |||||||| ||||||| |||||||| ||||||`
+- `A |||||||||||||| ||||||| |||||||| ||||||| |||||||| |||||.`
 
 ## `Ego+++`
-- `A |||||||||||||| ||||||| |||||||| ||||||| |||||||| |||| |||| ||||||`
+- `A |||||||||||||| ||||||| |||||||| ||||||| |||||||| |||| |||| |||||.`
 
 ## `Ego++++`
-- `A |||||||||||||| ||||||| |||||||| ||||||| |||||||| ||||| ||| |||| ||||||| |||||||| |||||`
+- `A |||||||||||||| ||||||| |||||||| ||||||| |||||||| ||||| ||| |||| ||||||| |||||||| ||||.`
 
 ## Election
 - A formal group decision-making process by which Fans spend Votes in exchange for divine favor.
@@ -134,8 +134,8 @@
 - Of, relating to, or operated by electricity.
 - A bloodborne ability capable of zapping away Strikes.
 
-## `E||||||||`
-- `||| ||||`.
+## `Elsewhere`
+- `Not here`.
 
 ## Endseason
 - A period of Rest bridging the Lateseason and the Earlpostseason.
