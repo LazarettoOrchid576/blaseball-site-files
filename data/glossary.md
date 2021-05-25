@@ -29,7 +29,7 @@
 
 ## Black Hole
 - Weather.
-- A celestial object formed when a` ||| `runs out of fuel.
+- A celestial object formed when a` Sun `runs out of fuel.
 - A region of Immateria with a gravitational field and` |||||||| `so strong that nothing can escape it.
 
 ## Blaserunning
@@ -115,16 +115,16 @@
 - A period of Rest bridging the Earlseason and the Midseason.
 - The time of the Seasonal Reading.
 
-## `||||`
+## `Ego+`
 - `| |||||||||||||| ||||||| |||||||| ||||||| |||||||| ||||||`
 
-## `|||||`
+## `Ego++`
 - `| |||||||||||||| ||||||| |||||||| ||||||| |||||||| ||||||`
 
-## `||||||`
+## `Ego+++`
 - `| |||||||||||||| ||||||| |||||||| ||||||| |||||||| |||| |||| ||||||`
 
-## `||||||||`
+## `Ego++++`
 - `| |||||||||||||| ||||||| |||||||| ||||||| |||||||| ||||| ||| |||| ||||||| |||||||| |||||`
 
 ## Election
@@ -134,7 +134,7 @@
 - Of, relating to, or operated by electricity.
 - A bloodborne ability capable of zapping away Strikes.
 
-## `|||||||||`
+## `E||||||||`
 - `||| ||||`.
 
 ## Endseason
@@ -150,13 +150,13 @@
 - A possible consequence of Localization Error.
 
 ## Fielder's Choice
-- A Play in which the` |||||||| |||||| |||||||| || ||| ||| ||||||| |||||| `allows the Hitter to reach first base safely.
+- A Play in which the` fielding player |||||||| || ||| ||| ||||||| |||||| `allows the Hitter to reach first base safely.
 
 ## Fifth Base
 - A physical concept that can be added to a Team's base path, forcing the Team to run five bases instead of four in order to score.
 
 ## Fire Eater
-- A Player that, in the event of attempted incineration, will instead` ||||||| ||| ||||| ||| `become Magmatic.
+- A Player that, in the event of attempted incineration, will instead` consume the flame and `become Magmatic.
 
 ## Fireproof
 - Unable to be incinerated.
@@ -200,7 +200,7 @@
 - A bloodborne ability to play better over time, up to a 5% global boost in performance by season's end.
 
 ## Hall of Flame
-- A resting place for Players that have been Incinerated. The Hall of Flame is located` || ||| |||||| `and is guarded by the Being known as` ||| |||||||`.
+- A resting place for Players that have been Incinerated. The Hall of Flame is located` in the Trench `and is guarded by the Being known as` the Monitor`.
 
 ## Hard Boiled
 - A Player that was boiled a little bit before hatching.
@@ -235,7 +235,7 @@
 - To apply a statistical reduction.
 
 ## In
-- A` |||||||| `concept comprising the building blocks of an Inning.
+- A` physical `concept comprising the building blocks of an Inning.
 
 ## Incineration
 - The destruction of something, especially waste material, by burning.
@@ -251,7 +251,7 @@
 - The annual championship series of Internet League Blaseball, contested since Season 6 of the Discipline Era, between the champion teams of the Wild League and the Mild League.
 
 ## Inverted
-- `| |||||||| ||||||| ||||||||| || |||||||| ||||||| | ||||||| ||||||| |||||||`
+- `A physical concept ||||||||| || |||||||| ||||||| | ||||||| ||||||| |||||||`
 
 ## Latepostseason
 - The period of the Postseason comprising the Wild League Championship Series, the Mild League Championship Series, and the Internet Series.
@@ -262,8 +262,8 @@
 ## Lateseason
 - The period of the Regular Season beginning at the end of the Latesiesta and ending at the beginning of the Endseason.
 
-## `|||||||||`
-- `| |||||||| ||||||| |||||||| ||||| ||| |||| |||||||| |||||||| ||||| || ||||| ||||| |||||| |||||| |||||||`
+## `Legendary`
+- `A physical concept |||||||| ||||| ||| |||| |||||||| |||||||| ||||| || ||||| ||||| |||||| |||||| |||||||`
 
 ## Liberated
 - Free from domination, control, or influence.
@@ -308,7 +308,7 @@
 ## Observed
 - A state of being watched.
 
-## `|||||`
+## `Orbit`
 - A destroyed non-physical concept.
 
 ## Out
@@ -364,7 +364,7 @@
 - A new debt instrument that has better terms than a previous contract and can be used to pay down the previous obligation.
 
 ## Released
-- `| ||||| || ||||| ||| |||`
+- `A state of being let go.`
 
 ## Repeating
 - A tendency to Repeat during Reverb weather.
@@ -387,7 +387,7 @@
 - The sequence in which these players pitch.
 
 ## Run
-- A physical object forged` |||| ||| |||||| || ||| | `during a game of blaseball. Often kept in a pile.
+- A physical object forged` from the embers of Sun 2 `during a game of blaseball. Often kept in a pile.
 
 ## Saboteur
 - A Player that intentionally fails, usually out of allegiance to another Team.
@@ -405,7 +405,7 @@
 ## Shame Donor
 - A Team or Player who adds Unruns to a Shamed opponents' future pile.
 
-## `|||||||`
+## `Shelled`
 - A state of being trapped inside a big Peanut and unable to bat or pitch.
 
 ## Shop
@@ -424,7 +424,7 @@
 ## Solar Eclipse
 - Weather.
 - The total or partial obscuring of one celestial body by another.
-- The obstruction of` ||| | `by` |||| |`.
+- The obstruction of` Sun 2 `by` Moon 2`.
 
 ## Somewhat Better
 - An improvement of 5%.
@@ -467,8 +467,8 @@
 
 ## Sun 2
 - Weather.
-- A celestial body forged by` ||||||||||`.
-- The source of` |||| `and` ||||`.
+- A celestial body forged by` Namerifeht`.
+- The source of` Runs `and` Wins`.
 
 ## Sunflower Seeds
 - A Snack that rewards Coins whenever a Fan's Idol gets a Hit.
@@ -488,7 +488,7 @@
 ## Targeted Shame
 - A curse that adds Unruns to a Shamed Team's pile for the following game.
 
-## `||| ||||`
+## `The ||||`
 - Is.
 
 ## The Coffee Cup
@@ -509,7 +509,7 @@
 ## Tribute
 - An act, statement, or gift that is intended to show gratitude, respect, or admiration.
 - Payment made periodically by one individual to another, especially as a sign of dependence.
-- `| |||||||| ||||| `of Team Spirit.
+- `A |||||||| ||||| `of Team Spirit.
 
 ## Unstable
 - The condition of having a much higher chance of being incinerated during a Solar Eclipse.
@@ -531,11 +531,11 @@
 - A democratically determined distribution of Benefits.
 
 ## Win
-- A valuable object forged` |||| ||| |||||| || ||| |`.
+- A valuable object forged` from the embers of Sun 2`.
 - A unit of measurement.
 
 ## Wins
-- The gross collected win-objects forged` |||| ||| |||||| || ||| | `in a Season.
+- The gross collected win-objects forged` from the embers of Sun 2 `in a Season.
 
 ## Wired
 - A condition triggered when a Run is scored, resulting in each Wired Player involved in the play (the Scoring Baserunner, Current Batter, or Current Pitcher) making the run-object worth 0.5 more.

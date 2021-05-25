@@ -6,8 +6,8 @@
 
 ### 1. Seasons
 * a. Each season of Blaseball shall last 99 games. In the case of `the Ultimate ||||||||`, seasons shall `|||||||||||||||||, or at least until the ||||||| have ||||||||.`
-* b. Every day of Blaseball shall last one `|||||` hour.
-* c. If any games last longer than one `|||||` hour, a Spillover shall occur, and all games shall be delayed until the next `|||||` hour. In the case of a game lasting two `|||||` hours, the `entire season should be ||||||||| and both teams should be ||||||||| ||||||||| |||||||| |||| for |||||| |||||||||||.`
+* b. Every day of Blaseball shall last one `Earth` hour.
+* c. If any games last longer than one `Earth` hour, a Spillover shall occur, and all games shall be delayed until the next `Earth` hour. In the case of a game lasting two `|||||` hours, the `entire season should be ||||||||| and both teams should be ||||||||| ||||||||| |||||||| |||| for |||||| |||||||||||.`
 * d. A season should start on a "Monday" and therefore conclude on a "Friday".
 * e. The Standings of a season of Blaseball shall be decided by two factors: Wins and Divine Favor. `Nothing else matters`. The Team with the higher number of Wins shall be considered higher in the Standings. If two Teams are tied, the tie-breaker will be decided by their positions on the Divine Favor list.
 * f. Party Time: A Team will enter Party Time if receiving 1 Win per remaining game would not land them in the Postseason.
@@ -24,8 +24,8 @@
 * h. All other Postseason series shall be 3-Win series.
 * i. Postseason series are decided when, at the conclusion of a game, a Team has reached the specified Win count, and has more Wins than their opponent.
 * j. The home team in each Postseason game shall be `the |||||||||||, if the |||||||||||||||||||.`
-* k. The first two Rounds should begin after the end of the regular season. One full `|||||` hour shall be skipped, and then the Wild Card Round shall begin at the top of the next available `|||||` hour.
-* l. The Postseason shall continue early on a "Saturday" and conclude within the same day. If the Postseason lasts into the following day, no `||||| shall be ||||||||, and both teams shall be |||||||||| |||||||| ||||||||||||.`
+* k. The first two Rounds should begin after the end of the regular season. One full `Earth` hour shall be skipped, and then the Wild Card Round shall begin at the top of the next available `Earth` hour.
+* l. The Postseason shall continue early on a "Saturday" and conclude within the same day. If the Postseason lasts into the following day, no `games shall be ||||||||, and both teams shall be |||||||||| |||||||| ||||||||||||.`
 
 ### 3. Elections
 * a. Participants should be allowed to Vote on the rules, rosters, and other effects of the game of Blaseball. `The content of such Votes shall be ||||||||||||||| ||||||||||||||||||| ||||||||| entertainment`.
@@ -35,16 +35,16 @@
 * d. Elections should end on a "Sunday," although Votes should be able to be cast on any day of the week.
 
 ### 4. Teams
-* a. Teams are a `|||||||||| || players` bound by `| |||||| |||||||||| |||| ||||||`. Names, colors, icons, and slogans are `||||||||||| |||||||||||| || ||| |||| |||||| || ||||| |||||||||||||` in order for the Fans `to find them palatable.`
+* a. Teams are a `collection of players` bound by `a common |||||||||| |||| ||||||`. Names, colors, icons, and slogans are `||||||||||| |||||||||||| || ||| |||| |||||| || ||||| |||||||||||||` in order for the Fans `to find them palatable.`
 * b. A Team's roster is built of four sections: Lineup, Rotation, `Bench`, and `Bullpen`. The Lineup and Rotation make up a Team's Active Roster, and the `Bench` and `Bullpen` make up a Team's Shadows. A Team's Shadows cannot be accessed unless directly specified, or through direct selection from a public interface.
-* c. Teams may choose `|| |||| ||||| ||||| || ||||||||, a |||||| |||||` to contain and represent their `||||||`. The Fans may shape `|||| |||||| as they` uncover and decipher `their ||||' ||||||.`
+* c. Teams may choose `an icon ||||| ||||| || ||||||||, a vessel built` to contain and represent their `||||||`. The Fans may shape `|||| |||||| as they` uncover and decipher `their ||||' ||||||.`
 
 ### 5. Playing the Game
 * a. The game of Blaseball should be played between two teams.
 * b. Each game should take place `at the home team's stadium` on the immaterial plane.
 * c. Weather: `The home team's stadium should determine the weather.` In the case that `||||||||||||||||||||`, a Solar Eclipse shall last until `||||||||||||||||||||`
 * d. There are `two positions` in Blaseball, `||||||||||||||||||||.`
-* e. When a team is on Defense, `all of the team's ||||||| will stand ||||||||| out in the field. Doesn't really matter where.`
+* e. When a team is on Defense, `all of the team's Players will stand somewhere out in the field. Doesn't really matter where.`
 * f. The pitcher must throw the ball `with their hands.`, unless `that doesn't make sense.`
 * g. Once the ball is in play, `||| |||| || ||| |||||||||| ||||| |||||||||| the outcome of the play. ||| |||| ||||||| || ||||||||||||||||` immaterial plane `|||||||||||||| ||||||| ||||||| ||||||||| ||||||||||||||| |||||||||||||||| |||||||| |||||||| unfathomable.`
 * h. The team with the most runs will win the game.
@@ -57,8 +57,8 @@
 ### 6. `The Gods` and You
 * a. Should the Participants open the Forbidden Book, `The Discipline Era should begin||||||||||||||||||||||` suffering `upon the league. Players shall be ` banished `at the ||||||||||| ||||||||| |||| ||||||||||||||||.` The Discipline Era shall last until `the Participants have` atoned.
 * b. ~~If a team wins three championships, they, and Blaseball, shall ascend.~~
-* c. ~~When teams are sent to~~ `||||||||||| |||||||||||||`, ~~they shall return once~~ `|||||||||||||||| |||||||||||||||||||||| ||||||` ~~the Under.~~ When teams are sent to `||||||||| |||`, they shall return once `|||| ||| |||||||||| ||| ||||| |||||||||| ||||| || ||||||||||` Blasphemy.
-* d. Divine Favor: the `||||` have an internal ranking of favored teams. The list is decided `|||||||||` each season, and determines all standings tiebreakers.
+* c. ~~When teams are sent to~~ `||||||||||| |||||||||||||`, ~~they shall return once~~ `|||||||||||||||| |||||||||||||||||||||| ||||||` ~~the Under.~~ When teams are sent to `Blaseball Two`, they shall return once `|||| ||| |||||||||| ||| ||||| |||||||||| ||||| || ||||||||||` Blasphemy.
+* d. Divine Favor: the `Gods` have an internal ranking of favored teams. The list is decided `|||||||||` each season, and determines all standings tiebreakers.
 * e. ~~If at any time the Fans have angered the Blaseball Gods, they may atone by eating one million Peanuts.~~ STRIKE TWO
 * h. Eat The Rich: Every season, immediately before the Election, the Wealthiest 1% of Fans will have their Coins removed and distributed evenly to the other 99% of Fans.
 * i. Based Evolution: Every Third Championship a Team wins will cause the Team and its Players to Evolve. Players that round the phylogenic Bases will get to go Home.
@@ -72,7 +72,7 @@
 * c. It is known that the majority of the icons on the site are sourced from Game-Icons.net. `||||||||` thank the authors immensely. Individual author credits coming soon.
 
 ### Signed,
-* `||||`,  `||||`,  `||||||||`,  `|||||||`,  `||||||||`,  `|||||||||`,  `|||||||`,  `||||`,  `||||||`,  H`||||||||||`,  `||||||`,  `|||||||`,  `||||| ||||`,  A`|||||| ||||||`,  `||||`,  N`||||||`,  `||`,  `||||||`,  ~~M~~`|| ||||||`
+* `||||`,  `||||`,  `||||||||`,  `|||||||`,  `||||||||`,  `|||||||||`,  `|||||||`,  `||||`,  `||||||`,  H`allmonitor`,  `||||||`,  `|||||||`,  `||||| ||||`,  A`equitas Equitas`,  `||||`,  N`||||||`,  `||`,  `||||||`,  ~~M~~`r. Peanut`
 
 ## Expansions
 
@@ -102,10 +102,10 @@
 ### 5. Deface - Wills
 * a. Fans shall bend the Election to their Will.
 * b. Wills shall be added to the Election, allowing Fans to name Beneficiaries.
-* c. In the spirit of `||||||||`, each Team shall win the same base number of Wills, unless affected by Free Will. Wills will be decided by random selection from each Team's Votes.
+* c. In the spirit of `Fairness`, each Team shall win the same base number of Wills, unless affected by Free Will. Wills will be decided by random selection from each Team's Votes.
 * d. Free Wills: Each season, The bottom four finishing Teams in the league will receive an extra Will in that season's Election.
 * e. Wills will be Executed in order of League Standings.
-* f. `|| ||| |||||, | |||| |||| |||||| |` Wont.
+* f. `Of the wills, a Will will become a` Wont.
 
 ### 6. Eat - Concessions
 * a. The League shall sell Concessions to the Fans.
