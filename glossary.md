@@ -355,7 +355,7 @@
 - The period of time between Gods' Day and the beginning of the Regular Season.
 
 ## Receiver
-- A Player that harmonizes with` another ||||| `or Player.
+- A Player that harmonizes with` another Being `or Player.
 
 ## Red Hot!
 - A Modification that greatly boosts a batter's hitting and which disappears if the batter gets out.
