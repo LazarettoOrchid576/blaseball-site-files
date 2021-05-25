@@ -7,7 +7,7 @@
 ### 1. Seasons
 * a. Each season of Blaseball shall last 99 games. In the case of `the Ultimate ||||||||`, seasons shall `|||||||||||||||||, or at least until the ||||||| have ||||||||.`
 * b. Every day of Blaseball shall last one `Earth` hour.
-* c. If any games last longer than one `Earth` hour, a Spillover shall occur, and all games shall be delayed until the next `Earth` hour. In the case of a game lasting two `|||||` hours, the `entire season should be ||||||||| and both teams should be ||||||||| ||||||||| |||||||| |||| for |||||| |||||||||||.`
+* c. If any games last longer than one `Earth` hour, a Spillover shall occur, and all games shall be delayed until the next `Earth` hour. In the case of a game lasting two `Earth` hours, the `entire season should be ||||||||| and both teams should be ||||||||| ||||||||| |||||||| |||| for |||||| |||||||||||.`
 * d. A season should start on a "Monday" and therefore conclude on a "Friday".
 * e. The Standings of a season of Blaseball shall be decided by two factors: Wins and Divine Favor. `Nothing else matters`. The Team with the higher number of Wins shall be considered higher in the Standings. If two Teams are tied, the tie-breaker will be decided by their positions on the Divine Favor list.
 * f. Party Time: A Team will enter Party Time if receiving 1 Win per remaining game would not land them in the Postseason.
@@ -72,7 +72,7 @@
 * c. It is known that the majority of the icons on the site are sourced from Game-Icons.net. `||||||||` thank the authors immensely. Individual author credits coming soon.
 
 ### Signed,
-* `||||`,  `||||`,  `||||||||`,  `|||||||`,  `||||||||`,  `|||||||||`,  `|||||||`,  `||||`,  `||||||`,  H`allmonitor`,  `||||||`,  `|||||||`,  `||||| ||||`,  A`equitas Equitas`,  `||||`,  N`||||||`,  `||`,  `||||||`,  ~~M~~`r. Peanut`
+* `||||`,  `||||`,  `||||||||`,  `|||||||`,  `||||||||`,  `|||||||||`,  `|||||||`,  `||||`,  `||||||`,  H`allmonitor`,  `||||||`,  `|||||||`,  `||||| ||||`,  A`equita Equity`,  `||||`,  N`amerif`,  `||`,  `||||||`,  ~~M~~`r. Peanut`
 
 ## Expansions
 
