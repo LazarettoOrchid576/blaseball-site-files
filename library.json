@@ -34,18 +34,14 @@
                 "redacted": false
             },
             {
-                "title": "|||||| |",
-                "ideas": "Season A",
-                "counts": "",
+                "title": "Season A",
                 "id": "972adba7-6524-4302-9d71-d35374153e83",
-                "redacted": true
+                "redacted": false
             },
             {
-                "title": "|||||||| |",
-                "ideas": "Election A",
-                "counts": "",
+                "title": "Postseason A",
                 "id": "cb2e486e-551c-4fc1-bc80-a5d56119f840",
-                "redacted": true
+                "redacted": false
             },
             {
                 "title": "|||||| |",
